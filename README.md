@@ -1,2 +1,1 @@
-# In-ynieria_oprogramowania
-zajecia_UZ
+Zmien nazwe na niepolska kacapie
